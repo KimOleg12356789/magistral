@@ -1,0 +1,518 @@
+
+
+
+
+
+@media screen and (max-width: 1300px) {
+	
+}
+
+@media screen and (max-width: 1250px){
+	.checkbox-border-suptitle {
+		height: 120px;
+	}
+}
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1200px) {
+	.room-inner-border {
+		display: none;
+	}
+
+	.room-inner-link {
+		display: none;
+	}
+
+	.room-inner-link2 {
+		display: block;
+	}
+
+	.booking-tabs-block {
+		padding: 0 10px 0 0;
+	}
+
+	.booking-tabs-block2 {
+		padding: 0 0 0 10px;
+	}
+}	
+
+
+@media screen and (max-width: 1050px) {
+	.youbooking-data-title {
+		font-size: 12px;
+		line-height: 12px;
+	}
+
+	.youbooking-data-number {
+		font-size: 14px;
+		line-height: 16px;
+	}
+
+	.room-border {
+		padding: 16px 16px;
+	}
+
+	.room-content {
+	    position: relative;
+	    width: 65%;
+	    padding: 0 0 0 15px;
+	}
+
+	.room-img {
+	    width: 35%;
+	}
+
+	.room-title {
+		font-size: 32px;
+		line-height: 40px;
+	}
+
+	.room-wrap-title {
+		font-size: 12px;
+		line-height: 14px;
+	}
+
+	.room-wrap-title img {
+	    margin: 0 4px 0 0;
+	}
+
+	.youbooking-guest-title {
+		font-size: 12px;
+		line-height: 12px;
+	}
+
+	.youbooking-guest-suptitle {
+		font-size: 14px;
+		line-height: 16px;
+	}
+
+	.youbooking-link a {
+		padding: 12px 0;
+		font-size: 14px;
+		line-height: 18px;
+	}
+
+	.youbooking-link a img {
+		width: 18px;
+	}
+
+	.booking-border-title {
+		font-size: 14px;
+		line-height: 16px;
+	}
+
+	.booking-border-number {
+		font-size: 14px;
+		line-height: 16px;
+		width: 40px;
+		height: 40px;
+	}
+
+	.booking-border-title2 {
+		font-size: 14px;
+		line-height: 16px;
+	}
+
+	.booking-border-number2 {
+		font-size: 14px;
+		line-height: 16px;
+		width: 40px;
+		height: 40px;
+	}
+
+	.booking-border {
+		padding: 16px 20px;
+	}
+
+	.container {
+		padding: 0 40px;
+	}
+
+	.youbooking-data-arrow img {
+		width: 20px;
+
+	}
+
+	.youbooking-border {
+		padding: 16px 16px;
+	}
+
+	.booking-tabs-title {
+		font-size: 14px;
+		line-height: 24px;
+	}
+
+	.youbooking-room-title {
+		font-size: 12px;
+		line-height: 12px;
+	}
+
+	.youbooking-room-suptitle {
+		font-size: 14px;
+		line-height: 16px;
+	}
+
+	.youbooking-room-suptitle img {
+		display: none;
+	}
+
+	.youbooking-room-price {
+		font-size: 14px;
+		line-height: 16px;
+	}
+
+	.youbooking-total {
+		font-size: 18px;
+		line-height: 20px;
+	}
+
+	.youbooking-total-price {
+		font-size: 18px;
+		line-height: 25px;
+	}
+
+	.youbooking-link2 a {
+		font-size: 14px;
+		line-height: 18px;
+		padding: 12px 0;
+	}
+
+	.checkbox-border-title {
+		font-size: 32px;
+		line-height: 40px;
+	}
+
+	.checkbox-border-suptitle {
+		height: 160px;
+		padding: 8px 0 24px 0;
+	}
+
+	.checkbox-border {
+		padding: 16px 16px;
+	}
+
+	.checkbox-main .checkbox {
+		top: 16px;
+		right: 16px;
+	}
+
+	.booking-border-title2 span {
+	    padding: 4px 0 0 0;
+	    font-family: 'lato-semibold';
+	    font-size: 16px;
+	    line-height: 16px;
+	    color: #67D278;
+	}
+
+	.booking-dannyye-title {
+		font-size: 12px;
+		line-height: 14px;
+	}
+
+	.booking-dannyye-input input {
+		font-size: 16px;
+		line-height: 20px;
+		height: 44px;
+	}
+
+	.booking-dannyye-block {
+		padding: 0 10px 24px 0;
+	}
+
+	.booking-dannyye-block2 {
+		padding: 0 0 24px 10px;
+	}
+
+	.booking-dannyye-border-title {
+		font-size: 14px;
+		line-height: 120%;
+	}
+
+	.booking-dannyye-border-suptitle {
+		font-size: 20px;
+		line-height: 120%;
+	}
+
+	.booking-dannyye-border {
+		padding: 16px 16px;
+	}
+
+	.booking-dannyye-block3 {
+		padding: 0 20px 0 0;
+	}
+
+	.youbooking-dannye-title {
+		font-size: 12px;
+		line-height: 12px;
+	}
+
+	.youbooking-dannye-suptitle {
+		font-size: 14px;
+		line-height: 16px;
+	}
+
+
+	.youbooking-link3 a {
+		padding: 12px 0;
+		font-size: 14px;
+		line-height: 18px;
+	}
+
+	.youbooking-link3 a img {
+		width: 18px;
+	}
+
+  
+}
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 1024px) {
+	
+  
+}
+
+/* стили для sm-устройств */
+@media screen and (max-width: 992px) {
+	.container {
+		padding: 0 20px;
+	}
+  
+}
+
+
+@media screen and (max-width: 900px) {
+	.room-border {
+		flex-wrap: wrap;
+	}
+
+	.room-img {
+		width: 100%;
+	}
+
+	.room-img-des {
+		display: none;
+	}
+
+	.room-img-mb {
+		width: 100%;
+		display: block;
+	}
+
+	.room-content {
+		width: 100%;
+		padding: 12px 0 0 0;
+	}
+
+	.room-price {
+		position: relative;
+		left: 0;
+		padding: 32px 0 0 0;
+	}
+
+	.room-inner {
+		padding: 24px 0 0 0;
+	}
+
+	.booking-tabs-block {
+		width: 62%;
+	}
+
+	.booking-tabs-block2 {
+		width: 38%;
+	}
+
+	.booking-inner-block {
+		width: 100%;
+		padding: 0;
+	}
+
+	.booking-inner-block2 {
+		width: 100%;
+		padding: 16px 0 0 0;
+	}
+
+	.checkbox-border-suptitle {
+		height: auto;
+	}
+
+	.booking-dannyye-block3 {
+		width: 100%;
+		padding: 0 0 16px 0;
+	}
+
+	.booking-dannyye-border-title {
+		font-size: 12px;
+		line-height: 14px;
+	}
+
+	.booking-dannyye-border-suptitle {
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+
+}
+
+
+/* Ipad*/ 
+@media screen and (max-width: 768px) {
+	.booking-border-number {
+	    font-size: 14px;
+	    line-height: 16px;
+	    width: 32px;
+	    height: 32px;
+	}
+
+	.booking-border-number2 {
+	    font-size: 14px;
+	    line-height: 16px;
+	    width: 32px;
+	    height: 32px;
+	}
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+	.booking-container {
+		padding: 0;
+	}
+
+	.booking-border {
+		overflow: auto;
+		white-space: nowrap;
+	}
+
+	.booking-border::-webkit-scrollbar {
+		width: 0px;
+		height: 0px;
+	}
+
+	.booking-border-block {
+		padding: 0 40px 0 0;
+	}
+
+	.booking-tabs-block3 {
+		display: block;
+		width: 100%;
+	}
+
+	.booking-tabs-block {
+		width: 100%;
+		padding: 20px 0 0 0;
+	}
+
+	.booking-tabs-block2 {
+		display: none;
+	}
+
+	.booking-wrap {
+		flex-wrap: wrap;
+	}
+}
+
+@media screen and (max-width: 575px) {
+  	
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+  	.booking-dannyye-border {
+		overflow: auto;
+		white-space: nowrap;
+	}
+
+	.booking-dannyye-border::-webkit-scrollbar {
+		width: 0px;
+		height: 0px;
+	}
+
+	.booking-dannyye-border-block {
+		padding: 0 30px 0 0;
+	}
+
+	.booking-dannyye-block {
+		width: 100%;
+		padding: 0 0 24px 0;
+	}
+
+	.booking-dannyye-block2 {
+		width: 100%;
+		padding: 0 0 24px 0;
+	}
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+  	ul.tabs {
+  		width: 100%;
+  	}
+
+  	.booking-title {
+	    font-family: 'Oswald-Regular';
+	    font-size: 40px;
+	    line-height: 44px;
+	    text-align: center;
+	    color: #2E1F04;
+	}
+
+	.room-link2 a img {
+		display: none;
+	}
+
+	.room-link2 a {
+	    text-decoration: none;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	    font-family: 'lato-regular';
+	    font-size: 14px;
+	    line-height: 17px;
+	    color: #5E6371;
+	    width: 130px;
+	    padding: 8px;
+	    background: #ECEFF3;
+	}
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+	.room-title {
+	    font-size: 24px;
+	    line-height: 32px;
+	}
+
+	.room-link a {
+	    font-family: 'lato-semibold';
+	    text-decoration: none;
+	    font-size: 14px;
+	    line-height: 16px;
+	    text-align: center;
+	    color: #FFFFFF;
+	    display: block;
+	    background: #67D278;
+	    width: 130px;
+	    padding: 8px 0;
+	}
+
+	ul.tabs li {
+	    font-family: 'lato-regular';
+	    background: none;
+	    font-size: 14px;
+	    line-height: 32px;
+	    color: #5E6371;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+	    text-align: center;
+	    cursor: pointer;
+	}
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 320px) {
+
+}
